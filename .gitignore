@@ -396,3 +396,8 @@ Temporary Items
 # Local
 .env
 dist
+
+
+node_modules
+dist
+db
